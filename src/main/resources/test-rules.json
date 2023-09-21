@@ -1,0 +1,5280 @@
+[
+  {
+    "sym": "GFC",
+    "min": 10000,
+    "limit": 1000000000,
+    "minlimit": {
+      "default": 50.0,
+      "sec": 150.0,
+      "desired": 100.0
+    },
+    "level": {
+      "silver": "tier 1",
+      "gold": "tier 1",
+      "plat": "tier 1"
+    },
+    "ruleSilver": {
+      "EUROPE": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "UDS",
+          "DSF"
+        ]
+      },
+      "APAC": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      },
+      "NAM": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      }
+    },
+    "ruleGold": {
+      "EUROPE": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "APAC": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "NAM": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "sym": "GFC",
+    "min": 10000,
+    "limit": 1000000000,
+    "minlimit": {
+      "default": 50.0,
+      "sec": 150.0,
+      "desired": 100.0
+    },
+    "level": {
+      "silver": "tier 1",
+      "gold": "tier 1",
+      "plat": "tier 1"
+    },
+    "ruleSilver": {
+      "EUROPE": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "UDS",
+          "DSF"
+        ]
+      },
+      "APAC": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      },
+      "NAM": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      }
+    },
+    "ruleGold": {
+      "EUROPE": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "APAC": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "NAM": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "sym": "GFC",
+    "min": 10000,
+    "limit": 1000000000,
+    "minlimit": {
+      "default": 50.0,
+      "sec": 150.0,
+      "desired": 100.0
+    },
+    "level": {
+      "silver": "tier 1",
+      "gold": "tier 1",
+      "plat": "tier 1"
+    },
+    "ruleSilver": {
+      "EUROPE": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "UDS",
+          "DSF"
+        ]
+      },
+      "APAC": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      },
+      "NAM": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      }
+    },
+    "ruleGold": {
+      "EUROPE": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "APAC": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "NAM": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "sym": "GFC",
+    "min": 10000,
+    "limit": 1000000000,
+    "minlimit": {
+      "default": 50.0,
+      "sec": 150.0,
+      "desired": 100.0
+    },
+    "level": {
+      "silver": "tier 1",
+      "gold": "tier 1",
+      "plat": "tier 1"
+    },
+    "ruleSilver": {
+      "EUROPE": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "UDS",
+          "DSF"
+        ]
+      },
+      "APAC": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      },
+      "NAM": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      }
+    },
+    "ruleGold": {
+      "EUROPE": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "APAC": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "NAM": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "sym": "GFC",
+    "min": 10000,
+    "limit": 1000000000,
+    "minlimit": {
+      "default": 50.0,
+      "sec": 150.0,
+      "desired": 100.0
+    },
+    "level": {
+      "silver": "tier 1",
+      "gold": "tier 1",
+      "plat": "tier 1"
+    },
+    "ruleSilver": {
+      "EUROPE": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "UDS",
+          "DSF"
+        ]
+      },
+      "APAC": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      },
+      "NAM": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      }
+    },
+    "ruleGold": {
+      "EUROPE": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "APAC": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "NAM": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "sym": "GFC",
+    "min": 10000,
+    "limit": 1000000000,
+    "minlimit": {
+      "default": 50.0,
+      "sec": 150.0,
+      "desired": 100.0
+    },
+    "level": {
+      "silver": "tier 1",
+      "gold": "tier 1",
+      "plat": "tier 1"
+    },
+    "ruleSilver": {
+      "EUROPE": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "UDS",
+          "DSF"
+        ]
+      },
+      "APAC": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      },
+      "NAM": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      }
+    },
+    "ruleGold": {
+      "EUROPE": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "APAC": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "NAM": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "sym": "GFC",
+    "min": 10000,
+    "limit": 1000000000,
+    "minlimit": {
+      "default": 50.0,
+      "sec": 150.0,
+      "desired": 100.0
+    },
+    "level": {
+      "silver": "tier 1",
+      "gold": "tier 1",
+      "plat": "tier 1"
+    },
+    "ruleSilver": {
+      "EUROPE": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "UDS",
+          "DSF"
+        ]
+      },
+      "APAC": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      },
+      "NAM": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      }
+    },
+    "ruleGold": {
+      "EUROPE": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "APAC": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "NAM": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "sym": "GFC",
+    "min": 10000,
+    "limit": 1000000000,
+    "minlimit": {
+      "default": 50.0,
+      "sec": 150.0,
+      "desired": 100.0
+    },
+    "level": {
+      "silver": "tier 1",
+      "gold": "tier 1",
+      "plat": "tier 1"
+    },
+    "ruleSilver": {
+      "EUROPE": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "UDS",
+          "DSF"
+        ]
+      },
+      "APAC": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      },
+      "NAM": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      }
+    },
+    "ruleGold": {
+      "EUROPE": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "APAC": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "NAM": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "sym": "GFC",
+    "min": 10000,
+    "limit": 1000000000,
+    "minlimit": {
+      "default": 50.0,
+      "sec": 150.0,
+      "desired": 100.0
+    },
+    "level": {
+      "silver": "tier 1",
+      "gold": "tier 1",
+      "plat": "tier 1"
+    },
+    "ruleSilver": {
+      "EUROPE": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "UDS",
+          "DSF"
+        ]
+      },
+      "APAC": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      },
+      "NAM": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      }
+    },
+    "ruleGold": {
+      "EUROPE": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "APAC": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "NAM": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "sym": "GFC",
+    "min": 10000,
+    "limit": 1000000000,
+    "minlimit": {
+      "default": 50.0,
+      "sec": 150.0,
+      "desired": 100.0
+    },
+    "level": {
+      "silver": "tier 1",
+      "gold": "tier 1",
+      "plat": "tier 1"
+    },
+    "ruleSilver": {
+      "EUROPE": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "UDS",
+          "DSF"
+        ]
+      },
+      "APAC": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      },
+      "NAM": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      }
+    },
+    "ruleGold": {
+      "EUROPE": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "APAC": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "NAM": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "sym": "GFC",
+    "min": 10000,
+    "limit": 1000000000,
+    "minlimit": {
+      "default": 50.0,
+      "sec": 150.0,
+      "desired": 100.0
+    },
+    "level": {
+      "silver": "tier 1",
+      "gold": "tier 1",
+      "plat": "tier 1"
+    },
+    "ruleSilver": {
+      "EUROPE": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "UDS",
+          "DSF"
+        ]
+      },
+      "APAC": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      },
+      "NAM": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      }
+    },
+    "ruleGold": {
+      "EUROPE": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "APAC": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "NAM": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "sym": "GFC",
+    "min": 10000,
+    "limit": 1000000000,
+    "minlimit": {
+      "default": 50.0,
+      "sec": 150.0,
+      "desired": 100.0
+    },
+    "level": {
+      "silver": "tier 1",
+      "gold": "tier 1",
+      "plat": "tier 1"
+    },
+    "ruleSilver": {
+      "EUROPE": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "UDS",
+          "DSF"
+        ]
+      },
+      "APAC": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      },
+      "NAM": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      }
+    },
+    "ruleGold": {
+      "EUROPE": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "APAC": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "NAM": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "sym": "GFC",
+    "min": 10000,
+    "limit": 1000000000,
+    "minlimit": {
+      "default": 50.0,
+      "sec": 150.0,
+      "desired": 100.0
+    },
+    "level": {
+      "silver": "tier 1",
+      "gold": "tier 1",
+      "plat": "tier 1"
+    },
+    "ruleSilver": {
+      "EUROPE": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "UDS",
+          "DSF"
+        ]
+      },
+      "APAC": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      },
+      "NAM": {
+        "matching": 19999999,
+        "preTest": 300000000,
+        "start": 6,
+        "time": 1,
+        "percentage": 15,
+        "character": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "winStart": 5,
+        "o1": 2000000,
+        "02": 5,
+        "03": 5,
+        "04": 30,
+        "05": 4,
+        "06": 60,
+        "07": 1,
+        "08": 10,
+        "external": [
+          "SAM",
+          "BEN",
+          "HOX",
+          "STEL",
+          "KAS"
+        ],
+        "windowsecondslotThreshold": 20000000,
+        "windowPercentage": 50,
+        "windowSecondslotDuration": 4,
+        "windowSecondSlotLiquidityPools": [
+          "EBS",
+          "TRM"
+        ]
+      }
+    },
+    "ruleGold": {
+      "EUROPE": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "APAC": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      },
+      "NAM": {
+        "CATA": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATB": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        },
+        "CATC": {
+          "matching": 19999999,
+          "preTest": 300000000,
+          "start": 6,
+          "time": 1,
+          "percentage": 15,
+          "character": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ],
+          "winStart": 5,
+          "o1": 2000000,
+          "02": 5,
+          "03": 5,
+          "04": 30,
+          "05": 4,
+          "06": 60,
+          "07": 1,
+          "08": 10,
+          "external": [
+            "SAM",
+            "BEN",
+            "HOX",
+            "STEL",
+            "KAS"
+          ]
+        }
+      }
+    }
+  }
+]
